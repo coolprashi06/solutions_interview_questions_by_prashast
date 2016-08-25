@@ -1,3 +1,5 @@
+package prashastsaxena;
+
 public class MoveZerosToEnd {
 
     public int[] moveZeroesToEnd(int[] arr){
