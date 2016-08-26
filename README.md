@@ -3,7 +3,7 @@
 Covers solutions to following problems
 - **Move Zeroes to end in an int array**  
   Problem description can be looked [here](https://leetcode.com/problems/move-zeroes/)  
-  Solution mentioned [here](../../prashastsaxena/MoveZeroesToEnd.java)
+  Solution mentioned [here](prashastsaxena/MoveZerosToEnd.java)
 
 - **Reverse Vowels of a string**  
   Problem description can be looked [here](https://leetcode.com/problems/reverse-vowels-of-a-string/)  
